@@ -3,3 +3,7 @@
 |-----------|-------------------------------|
 | pwd       | Show current directory        |
 | ls        | List files/folders             |
+|         |              |
+|         |              |
+|         |              |
+|         |              |
