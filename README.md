@@ -2,4 +2,4 @@
 | Command   |               Description     |
 |-----------|-------------------------------|
 | pwd       | Show current directory        |
-| Data 3    | Data 4             |
+| ls        | List files/folders             |
