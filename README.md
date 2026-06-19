@@ -5,5 +5,5 @@
 | ls        | List files/folders             |
 | ls -l        |    Detailed file list          |
 |  ls -a       |   Show hidden files           |
-|         |              |
+|   cd      |   Change directory           |
 |         |              |
