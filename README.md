@@ -7,3 +7,4 @@
 |  ls -a       |   Show hidden files           |
 |   cd      |   Change directory           |
 |  cd ..       |   Go back one folder           |
+| cd ~          | Go to home directory |
